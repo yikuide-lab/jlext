@@ -1,6 +1,6 @@
 # jlext
 
-[English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md)
+[English](https://github.com/yikuide-lab/jlext/blob/main/README_EN.md) | [日本語](https://github.com/yikuide-lab/jlext/blob/main/README_JA.md) | [한국어](https://github.com/yikuide-lab/jlext/blob/main/README_KO.md)
 
 像 Numba 一样，在 Python 函数中直接编写和运行 Julia 代码。
 

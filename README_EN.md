@@ -1,6 +1,6 @@
 # jlext
 
-[中文](README.md) | [日本語](README_JA.md) | [한국어](README_KO.md)
+[中文](https://github.com/yikuide-lab/jlext/blob/main/README.md) | [日本語](https://github.com/yikuide-lab/jlext/blob/main/README_JA.md) | [한국어](https://github.com/yikuide-lab/jlext/blob/main/README_KO.md)
 
 Write and run Julia code directly inside Python functions, just like Numba.
 

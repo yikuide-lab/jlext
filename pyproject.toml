@@ -1,9 +1,9 @@
 [project]
 name = "jlext"
-version = "0.1.0"
+version = "0.1.1"
 description = "Julia extension for Python - write Julia code in Python functions like Numba"
 requires-python = ">=3.9"
-license = "MIT"
+license = {text = "MIT"}
 readme = "README.md"
 authors = [{ name = "yikuide-lab" }]
 keywords = ["julia", "numba", "jit", "interop", "scientific-computing"]
@@ -26,7 +26,7 @@ Repository = "https://github.com/yikuide-lab/jlext"
 Issues = "https://github.com/yikuide-lab/jlext/issues"
 
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=68,<75"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]

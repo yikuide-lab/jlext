@@ -1,6 +1,6 @@
 # jlext
 
-[中文](README.md) | [English](README_EN.md) | [한국어](README_KO.md)
+[中文](https://github.com/yikuide-lab/jlext/blob/main/README.md) | [English](https://github.com/yikuide-lab/jlext/blob/main/README_EN.md) | [한국어](https://github.com/yikuide-lab/jlext/blob/main/README_KO.md)
 
 Numbaのように、Python関数内でJuliaコードを直接記述・実行できます。
 
